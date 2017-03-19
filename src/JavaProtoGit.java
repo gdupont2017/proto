@@ -1,5 +1,6 @@
 /*
  * Licence en cours de définition
+* GPL ?
  */
 
 /**
